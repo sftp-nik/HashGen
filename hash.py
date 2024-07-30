@@ -28,5 +28,4 @@ def hash_folder(folder_path):   # to genrate has for folder
 folder_path = r"C:\Users\Nikhil Kulkarni\Desktop"  # folder path
 folder_hash = hash_folder(folder_path)
 print(f'The hash of the folder is: {folder_hash}')
-
-
+print("Developed by Nik")
