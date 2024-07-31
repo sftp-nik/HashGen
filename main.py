@@ -24,8 +24,7 @@ def hash_folder(folder_path):   # to genrate has for folder
                 sha256.update(file_hash.encode('utf-8'))
     return sha256.hexdigest()
 
-
-folder_path = r"C:\Users\Nikhil Kulkarni\Desktop"  # folder path
+folder_path = input("Enter Folder Path: ")  # folder path
 folder_hash = hash_folder(folder_path)
 print(f'The hash of the folder is: {folder_hash}')
 print("Developed by Nik")
