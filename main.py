@@ -28,3 +28,4 @@ folder_path = input("Enter Folder Path: ")  # folder path
 folder_hash = hash_folder(folder_path)
 print(f'The hash of the folder is: {folder_hash}')
 print("Developed by Nik")
+
