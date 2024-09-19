@@ -65,5 +65,4 @@ The script consists of two main functions:
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Developed By
-
 Nikhil Kulkarni
