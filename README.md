@@ -59,6 +59,7 @@ The script consists of two main functions:
 
 1. **`hash_file(file_path)`**: This function generates the SHA-256 hash for an individual file.
 2. **`hash_folder(folder_path)`**: This function generates the SHA-256 hash for a folder by iterating through all the files in the folder, generating their hashes, and then combining these hashes to produce a single SHA-256 hash for the folder.
+3. 
 
 ## License
 
